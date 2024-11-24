@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term0"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>city</Term>
+    </Terms>
+    <Definition
+      Link="">a big town</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term1"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>attraction</Term>
+    </Terms>
+    <Definition
+      Link="">a place to visit</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term2"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>hotel</Term>
+    </Terms>
+    <Definition
+      Link="">a place to stay in</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term3"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Poland</Term>
+    </Terms>
+    <Definition
+      Link="">a beautiful country in Central Europe</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term4"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>county</Term>
+    </Terms>
+    <Definition
+      Link="">a geographic region of a country used for administrative or other purposes[</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term5"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>Galicia</Term>
+    </Terms>
+    <Definition
+      Link="">a historical and geographic region spanning what is now southeastern Poland and western Ukraine, long part of the Polish–Lithuanian Commonwealth</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

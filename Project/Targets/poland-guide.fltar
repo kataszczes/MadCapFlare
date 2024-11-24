@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Poland guide"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="first"
+  MasterToc="/Project/TOCs/poland-guide.fltoc"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[Default.PrintOnly]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx"
+    PreserveTrackedChanges="false" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/PolandGuideGlossary.flglo" />
+  </Glossaries>
+</CatapultTarget>
