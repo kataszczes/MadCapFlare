@@ -161,5 +161,9 @@
     StartSection="false"
     PageNumberReset="continue"
     ChapterNumberReset="continue"
-    PageNumber="1" />
+    PageNumber="1">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Guide/Nowy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
 </CatapultToc>
